@@ -20,8 +20,6 @@ The Inventory App is designed to simplify and enhance the management of warehous
    git clone https://github.com/Toast-stack/CS-360-Mobile-Architect-Programming.git
 
 2. **Navigate to the Project Directory**:
-
-   '''bash
    
        cd CS-360-Mobile-Architect-Programming
 
