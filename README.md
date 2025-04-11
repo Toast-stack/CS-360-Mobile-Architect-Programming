@@ -47,3 +47,6 @@ A significant innovation was the app's minimalist design, aiming to reduce clutt
 ## Acknowledgments
 * Course: CS-360 Mobile Architect & Programming, Southern New Hampshire University
 * Development Tools: Android Studio
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
